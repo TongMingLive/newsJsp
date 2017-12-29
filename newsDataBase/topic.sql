@@ -1,0 +1,11 @@
+INSERT INTO `topic` VALUES (11, '业界');
+INSERT INTO `topic` VALUES (2, '人物');
+INSERT INTO `topic` VALUES (9, '创业');
+INSERT INTO `topic` VALUES (10, '囧科技');
+INSERT INTO `topic` VALUES (6, '微软');
+INSERT INTO `topic` VALUES (8, '活动互动');
+INSERT INTO `topic` VALUES (3, '电商');
+INSERT INTO `topic` VALUES (12, '综合新闻');
+INSERT INTO `topic` VALUES (1, '网络');
+INSERT INTO `topic` VALUES (7, '苹果');
+INSERT INTO `topic` VALUES (4, '通信');
